@@ -39,6 +39,3 @@ This project implements a cryptographic tool capable of encrypting and decryptin
     * Input the corresponding 4 characters of Ciphertext.
     * The tool will attempt to calculate the Inverse Plaintext Matrix and solve for the Key.
 
-## Credits & Acknowledgements
-* **Development:** [Your Name / Group Members]
-* [cite_start]**AI Assistance:** Parts of the code logic and documentation structure were refined using LLM tools (ChatGPT/Gemini)[cite: 17].
