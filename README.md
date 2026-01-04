@@ -20,7 +20,7 @@ This project implements a cryptographic tool capable of encrypting and decryptin
     ```bash
     python --version
     ```
-2.  Clone this repository or download the `main.py` file.
+2.  Clone this repository or download the `encryption_decryption.py` file.
 3.  Open a terminal/command prompt in the project directory.
 4.  Run the application:
     ```bash
