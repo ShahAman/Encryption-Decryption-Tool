@@ -26,7 +26,7 @@ This project implements a cryptographic tool capable of encrypting and decryptin
     ```bash
     python encryption_decryption.py
     ```
-    *(Note: If your system uses `python3`, type `python3 main.py`)*
+    *(Note: If your system uses `python3`, type `python3 encryption_decryption.py`)*
 
 ## Usage Guide
 1.  Upon launching, you will see a main menu with 6 options (0-5).
